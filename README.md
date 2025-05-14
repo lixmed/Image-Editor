@@ -16,4 +16,4 @@ To get started with the Artistic Image Editor, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/artistic-image-editor.git
+   git clone https://github.com/lixmed/artistic-image-editor.git
